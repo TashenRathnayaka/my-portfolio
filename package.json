@@ -1,6 +1,7 @@
 {
   "name": "my-portfolio",
   "private": true,
+  "homepage": "https://github.com/TashenRathnayaka/my-portfolio/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
