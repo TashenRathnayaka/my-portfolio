@@ -680,7 +680,7 @@ const Portfolio = () => {
               <p className="text-sm text-gray-400">+94 70 508 4034</p>
             </a>
 
-            <a href="https://linkedin.com/in/tashen-rathanayaka" target="_blank" rel="noopener noreferrer" className="bg-slate-900/50 border border-slate-800 rounded-xl p-6 hover:border-cyan-500 transition-all group">
+            <a href="https://www.linkedin.com/in/tashen-rathnayaka-b07ba9263/" target="_blank" rel="noopener noreferrer" className="bg-slate-900/50 border border-slate-800 rounded-xl p-6 hover:border-cyan-500 transition-all group">
               <div className="w-12 h-12 bg-blue-500/10 rounded-xl flex items-center justify-center mb-4 group-hover:bg-blue-500/20 transition-colors">
                 <Linkedin className="w-6 h-6 text-blue-400" />
               </div>
