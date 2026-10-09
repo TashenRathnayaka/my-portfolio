@@ -91,6 +91,7 @@ const Portfolio = () => {
       { name: "Active Directory", icon: Database },
       { name: "DNS/DHCP", icon: Network },
       { name: "Windows Server", icon: Server },
+      { name: "Linux Server", icon: Server },
       { name: "Azure Cloud", icon: Cloud },
       { name: "Hyper-V", icon: Cpu },
       { name: "VMware", icon: HardDrive },
@@ -98,6 +99,7 @@ const Portfolio = () => {
     ],
     "Networking & Security": [
       { name: "Fortinet Firewall", icon: Shield },
+      { name: "OPNsense", icon: Shield },
       { name: "Cisco Routing", icon: Network },
       { name: "Network Troubleshooting", icon: Settings },
       { name: "Endpoint Security", icon: Lock },
