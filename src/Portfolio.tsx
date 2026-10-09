@@ -207,7 +207,7 @@ const Portfolio = () => {
 
   const stats = [
     { number: "250+", label: "Users Supported", icon: Users },
-    { number: "2+", label: "Years Experience", icon: Clock },
+    { number: "3+", label: "Years Experience", icon: Clock },
     { number: "12+", label: "Certifications", icon: Award },
     { number: "99%", label: "Uptime Achieved", icon: TrendingUp }
   ];
@@ -357,7 +357,7 @@ const Portfolio = () => {
                 </h1>
                 <p className="text-2xl text-cyan-400 font-mono mb-4">IT Executive & Network Engineer</p>
                 <p className="text-lg text-gray-400 leading-relaxed">
-                  Proactive IT professional with 2+ years of hands-on experience managing complex IT environments for 250+ users. 
+                  Proactive IT professional with 3+ years of hands-on experience managing complex IT environments for 250+ users. 
                   Specialized in Hyper-V virtualization, Fortinet security, and Cisco networking infrastructure.
                 </p>
               </div>
